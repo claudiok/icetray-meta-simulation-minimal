@@ -1,0 +1,39 @@
+[submodule "cmake"]
+	path = cmake
+	url = https://github.com/claudiok/icetray-cmake.git
+[submodule "icetray"]
+	path = icetray
+	url = https://github.com/claudiok/icetray-icetray.git
+[submodule "dataio"]
+	path = dataio
+	url = https://github.com/claudiok/icetray-dataio.git
+[submodule "interfaces"]
+	path = interfaces
+	url = https://github.com/claudiok/icetray-interfaces.git
+[submodule "dataclasses"]
+	path = dataclasses
+	url = https://github.com/claudiok/icetray-dataclasses.git
+[submodule "examples"]
+	path = examples
+	url = https://github.com/claudiok/icetray-examples.git
+[submodule "phys-services"]
+	path = phys-services
+	url = https://github.com/claudiok/icetray-phys-services.git
+[submodule "simclasses"]
+	path = simclasses
+	url = https://github.com/claudiok/icetray-simclasses.git
+[submodule "sim-services"]
+	path = sim-services
+	url = https://github.com/claudiok/icetray-sim-services.git
+[submodule "tableio"]
+	path = tableio
+	url = https://github.com/claudiok/icetray-tableio.git
+[submodule "hdfwriter"]
+	path = hdfwriter
+	url = https://github.com/claudiok/icetray-hdfwriter.git
+[submodule "rootwriter"]
+	path = rootwriter
+	url = https://github.com/claudiok/icetray-rootwriter.git
+[submodule "clsim"]
+	path = clsim
+	url = https://github.com/claudiok/clsim.git

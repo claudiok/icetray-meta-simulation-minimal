@@ -43,7 +43,7 @@ Installation
 To compile this IceTray meta-project, first check out the source and generate a build directory (out of source) using
 something like this:
 
-    git clone http://github.com/claudiok/icetray-meta-simulation-minimal.git simulation-minimal
+    git clone --recursive http://github.com/claudiok/icetray-meta-simulation-minimal.git simulation-minimal
     mkdir build
     cd build
     cmake ../simulation-minimal -DSYSTEM_PACKAGES=True

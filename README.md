@@ -4,6 +4,12 @@ An icetray meta-project pulling in all projects needed to run basic photon propa
 
 Disclaimer
 ----------
+The official parts of the IceTray framework are maintained in a [subversion repository][icetray].
+This meta-project mainly exists to provide a way to build the [clsim photon propagator][clsim]
+in a meaningful way and should be considered unofficial! All projects pulled in are unofficial.
+
+Introduction
+------------
 This is a meta-project specific to the [IceCube neutrino telescope][icecube] (and Antares/KM3NeT)
 simulation. It uses the [IceTray framework][icetray] and multiple IceCube-internal packages
 which will be pulled in from external repositories using submodules.
@@ -61,7 +67,7 @@ You should be able to load icetray in python and start using scripts
 
     tray.Execute()
 
-
+[clsim]: https://github.com/claudiok/clsim
 [icecube]: http://icecube.wisc.edu
 [icetray]: http://code.icecube.wisc.edu/projects/icetray
 [homebrew]: http://brew.sh

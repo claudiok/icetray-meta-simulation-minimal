@@ -22,7 +22,7 @@
 	path = dataclasses
 	url = https://github.com/claudiok/icetray-dataclasses.git
 	fetchRecurseSubmodules = true
-	ignore = all
+	ignore = untracked
 [submodule "examples"]
 	path = examples
 	url = https://github.com/claudiok/icetray-examples.git

@@ -1,65 +1,52 @@
 [submodule "cmake"]
 	path = cmake
 	url = https://github.com/claudiok/icetray-cmake.git
-	ignore = all
 	fetchRecurseSubmodules = true
 [submodule "icetray"]
 	path = icetray
 	url = https://github.com/claudiok/icetray-icetray.git
-	ignore = all
 	fetchRecurseSubmodules = true
 [submodule "dataio"]
 	path = dataio
 	url = https://github.com/claudiok/icetray-dataio.git
-	ignore = all
 	fetchRecurseSubmodules = true
 [submodule "interfaces"]
 	path = interfaces
 	url = https://github.com/claudiok/icetray-interfaces.git
-	ignore = all
 	fetchRecurseSubmodules = true
 [submodule "dataclasses"]
 	path = dataclasses
 	url = https://github.com/claudiok/icetray-dataclasses.git
 	fetchRecurseSubmodules = true
-	ignore = untracked
 [submodule "examples"]
 	path = examples
 	url = https://github.com/claudiok/icetray-examples.git
-	ignore = all
 	fetchRecurseSubmodules = true
 [submodule "phys-services"]
 	path = phys-services
 	url = https://github.com/claudiok/icetray-phys-services.git
-	ignore = all
 	fetchRecurseSubmodules = true
 [submodule "simclasses"]
 	path = simclasses
 	url = https://github.com/claudiok/icetray-simclasses.git
-	ignore = all
 	fetchRecurseSubmodules = true
 [submodule "sim-services"]
 	path = sim-services
 	url = https://github.com/claudiok/icetray-sim-services.git
-	ignore = all
 	fetchRecurseSubmodules = true
 [submodule "tableio"]
 	path = tableio
 	url = https://github.com/claudiok/icetray-tableio.git
-	ignore = all
 	fetchRecurseSubmodules = true
 [submodule "hdfwriter"]
 	path = hdfwriter
 	url = https://github.com/claudiok/icetray-hdfwriter.git
-	ignore = all
 	fetchRecurseSubmodules = true
 [submodule "rootwriter"]
 	path = rootwriter
 	url = https://github.com/claudiok/icetray-rootwriter.git
-	ignore = all
 	fetchRecurseSubmodules = true
 [submodule "clsim"]
 	path = clsim
 	url = https://github.com/claudiok/clsim.git
-	ignore = all
 	fetchRecurseSubmodules = true
